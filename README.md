@@ -1,2 +1,2 @@
 # Project-python-beginer-first
-first Pythonproject
+first Python project
