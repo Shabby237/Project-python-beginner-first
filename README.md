@@ -51,7 +51,7 @@ git remote add origin Your-Github-Name/Project-python-beginner-first.git
 5. Add the original project repo as upstream
 
 ```
-git remote add origin Shabby237/Project-python-beginner-first.git
+git remote add upstream Shabby237/Project-python-beginner-first.git
 ```
 
 6. Create a new branch
